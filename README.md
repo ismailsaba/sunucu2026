@@ -36,3 +36,5 @@ NodeJS kullanacağız neden?
 
 #npm init ...
 # ya da nmpm init -y (sorulan her soruya evet demiş olursun ve package.json bu şekilde kurulur)
+
+#npm i nodemon ,bu paket saesinde srekli npm start yyazmaya gerek kalmaz
