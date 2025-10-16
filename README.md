@@ -28,7 +28,11 @@ NodeJS kullanacağız neden?
 
 #yani artık javascript ve nodejs bilgisi yeterli
 
-#nodejs konteyner iine de kurulabilir
+#nodejs konteyner içine de kurulabilir
 
 
 
+#npm=node package manager
+
+#npm init ...
+# ya da nmpm init -y (sorulan her soruya evet demiş olursun ve package.json bu şekilde kurulur)
