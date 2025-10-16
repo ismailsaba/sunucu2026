@@ -28,7 +28,7 @@ NodeJS kullanacağız neden?
 
 #yani artık javascript ve nodejs bilgisi yeterli
 
-
+#nodejs konteyner iine de kurulabilir
 
 
 
